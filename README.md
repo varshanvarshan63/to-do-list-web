@@ -123,3 +123,7 @@ Potential improvements you could add:
 ## Credits
 
 Built as a web version of the console-based Python to-do list application.
+
+## Author
+VARSHAN K N 
+varshanvarshan63@gmail.com
