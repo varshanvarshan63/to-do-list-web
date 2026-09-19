@@ -1,4 +1,4 @@
-# Web To-Do List Application BINDHU SHREE TR
+# Web To-Do List Application 
 
 A modern, responsive web-based to-do list application built with HTML, CSS, and JavaScript.
 
