@@ -1,4 +1,4 @@
-# Web To-Do List Application 
+# Web To-Do List Applications
 
 A modern, responsive web-based to-do list application built with HTML, CSS, and JavaScript.
 
